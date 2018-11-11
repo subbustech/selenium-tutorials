@@ -1,0 +1,43 @@
+FindElements
+WebElement
+List<WebElement>
+
+Checkboxes - Getting the count and Getting all the values
+Checkboxes - Selecting all the checkboxes one by one
+
+Multiselect - Multiselect with checkboxes
+
+Actions class more examples
+
+Multiple child windows
+
+Multiple frames
+
+Asserts in Selenium
+
+Work on Profiling in Maven
+
+Requirements for Maven - java
+
+Jenkins set up to start TestNG test cases when something is deployed to localhost
+
+Jenkins set up to start testing when something is changed on Git
+
+Selenium Frameworks
+Modular Driven Framework
+Selenium Datadriven Framework
+Selenium Keyword Driven Framework
+Selenium Hybrid Model
+
+Running selenium tests on Edge browser
+Running selenium tests on Opera browser
+
+Reading tables in selenium
+Accepting certificates in selenium
+
+java reflections
+Java Date
+Java substrings (is index of method) - how to check if a string is substring of other
+
+Java Object[]
+java class[]
